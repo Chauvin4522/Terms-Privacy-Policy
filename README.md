@@ -26,9 +26,9 @@ We DO NOT connect this data to you as a user. This data is only used to optimize
 None of your data is being distributed to anybody else, it is only used in internal processes to improve user experience and services.
 
 #Deletion of data
-All user-related data can be deleted by us on request in the [support server](https://discord.gg/gfaCdxG35m).
+All user-related data can be deleted by us on request in the [support server](https://discord.gg/XVZDuxnCrT).
 
 
 ## <img src="https://cdn.discordapp.com/emojis/1036083490292244493.png" width="15px" height="15px"> 》Support Server
-[![DiscordBanner](https://invidget.switchblade.xyz/gfaCdxG35m)](https://discord.gg/gfaCdxG35m)
-[Support Server](https://discord.gg/gfaCdxG35m) - Discord-Bot's Support Server Invite
+[![DiscordBanner](https://invidget.switchblade.xyz/gfaCdxG35m)](https://discord.gg/XVZDuxnCrT)
+[Support Server](https://discord.gg/XVZDuxnCrT) - Discord-Bot's Support Server Invite
